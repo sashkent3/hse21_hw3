@@ -1,0 +1,13 @@
+Module	Section	Sample Name	Source
+Bowtie 2 / HiSAT2	all_sections	SRR3414630.hisat	/home/sasha/Documents/HSE/BioMinor/HW3/SRR3414630.hisat
+Bowtie 2 / HiSAT2	all_sections	SRR3414629.hisat	/home/sasha/Documents/HSE/BioMinor/HW3/SRR3414629.hisat
+Bowtie 2 / HiSAT2	all_sections	SRR3414636.hisat	/home/sasha/Documents/HSE/BioMinor/HW3/SRR3414636.hisat
+Bowtie 2 / HiSAT2	all_sections	SRR3414635.hisat	/home/sasha/Documents/HSE/BioMinor/HW3/SRR3414635.hisat
+Bowtie 2 / HiSAT2	all_sections	SRR3414637.hisat	/home/sasha/Documents/HSE/BioMinor/HW3/SRR3414637.hisat
+Bowtie 2 / HiSAT2	all_sections	SRR3414631.hisat	/home/sasha/Documents/HSE/BioMinor/HW3/SRR3414631.hisat
+FastQC	all_sections	SRR3414631_1	/home/sasha/Documents/HSE/BioMinor/HW3/rna_seq_2021/SRR3414631_1_fastqc.zip
+FastQC	all_sections	SRR3414630_1	/home/sasha/Documents/HSE/BioMinor/HW3/rna_seq_2021/SRR3414630_1_fastqc.zip
+FastQC	all_sections	SRR3414637_1	/home/sasha/Documents/HSE/BioMinor/HW3/rna_seq_2021/SRR3414637_1_fastqc.zip
+FastQC	all_sections	SRR3414636_1	/home/sasha/Documents/HSE/BioMinor/HW3/rna_seq_2021/SRR3414636_1_fastqc.zip
+FastQC	all_sections	SRR3414635_1	/home/sasha/Documents/HSE/BioMinor/HW3/rna_seq_2021/SRR3414635_1_fastqc.zip
+FastQC	all_sections	SRR3414629_1	/home/sasha/Documents/HSE/BioMinor/HW3/rna_seq_2021/SRR3414629_1_fastqc.zip
